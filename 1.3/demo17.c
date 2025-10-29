@@ -49,6 +49,7 @@ int main(){
         printf("%d%d%d%d%d",ge,bai,shi,qian,wan);
     } 
     return 0;
-    //老师我认为我这种方式更简单，用switch还得分两步，但是我这个只需要一步就能完成
+    //老师我认为我这种方式更简单，用switch还得分两步，但是我这个只需要一步就能完成，用switch就是判断出几位数再赋值给一个变量，再用这个整数来配合switch使用
 
 }
+
